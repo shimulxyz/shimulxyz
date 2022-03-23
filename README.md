@@ -3,7 +3,7 @@
 - 🌱 I’m Currently Working with Laravel
 - 👯 I’m looking to collaborate on any Open Source Projects
 - 🤔 I’m looking for help with React
-- ⚡ Fun fact: I love when people appriciate my works
+- ⚡ Fun fact: I love when people appriciate my works !!
 
 <!---
 shimulxyz/shimulxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
